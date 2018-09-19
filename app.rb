@@ -11,6 +11,6 @@ class App < Sinatra::Base
   end
 
   get '/favorite-song' do
-    "Hello, World!"
+    "My favorite song is Blue Ain't Your Color"
   end
 end
